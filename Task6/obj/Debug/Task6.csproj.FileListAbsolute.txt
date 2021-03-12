@@ -1,0 +1,17 @@
+C:\Users\Admin\RiderProjects\Lab7\Task6\bin\Debug\Task6.exe.config
+C:\Users\Admin\RiderProjects\Lab7\Task6\bin\Debug\Task6.exe
+C:\Users\Admin\RiderProjects\Lab7\Task6\bin\Debug\Task6.pdb
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.exe
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.pdb
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Main.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Views.About.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Views.AddWord.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Views.Search.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.Views.Theme.resources
+C:\Users\Admin\RiderProjects\Lab7\Task6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\RiderProjects\Lab7\Task6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\RiderProjects\Lab7\Task6\obj\Debug\Task6.csproj.CopyComplete
